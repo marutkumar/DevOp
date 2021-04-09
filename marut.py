@@ -2,5 +2,5 @@ print("Hello World")
 
 print("eheel")
 
-a =5
+a =7
 print(a)
